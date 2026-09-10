@@ -1,6 +1,6 @@
 # PetAgenda — Semana 1 (Fundamentos e Requisitos)
 
-**Dupla:** [Nome do Aluno A] e [Nome do Aluno B]
+**Dupla:** [Douglas Pierry] e [Ryann Deyv's]
 **Cliente fictício:** Renata Souza — rede "Tosa Boa" (banho e tosa, 3 unidades)
 
 ---
@@ -116,7 +116,7 @@ Dois sistemas brasileiros de agendamento para pet shops foram usados como refer�
 
 ## 6. Contrato de Colaboração da Dupla
 
-**Integrantes:** [Nome do Aluno A] e [Nome do Aluno B]
+**Integrantes:** [Douglas Pierry] e [Ryann Deyv's]
 
 **Comunicação**
 - Ferramenta principal: [a definir — ex. WhatsApp/Discord]
@@ -124,15 +124,11 @@ Dois sistemas brasileiros de agendamento para pet shops foram usados como refer�
 - Documentação compartilhada em [Google Docs/Drive], com histórico de edições visível
 
 **Divisão de tarefas**
-- [Aluno A]: requisitos, documentação e modelagem estática (modelo conceitual, diagrama de classes)
-- [Aluno B]: modelagem dinâmica (casos de uso, diagramas de sequência), backlog e versionamento no Git
+- [Douglas Pierry]: requisitos, documentação e modelagem estática (modelo conceitual, diagrama de classes)
+- [Ryann Deyv's]: modelagem dinâmica (casos de uso, diagramas de sequência), backlog e versionamento no Git
 - Revisão cruzada obrigatória antes de cada entrega semanal
 
 **Resolução de conflitos**
 - Divergências técnicas são discutidas e decididas juntos nas reuniões síncronas
 - Sem consenso após uma reunião, a decisão é registrada com a justificativa de ambos e levada ao professor no encontro semanal
 - Atrasos ou dificuldades são avisados com antecedência ao outro integrante
-
----
-
-*Pontos para ajustar depois: nomes da dupla em [Nome do Aluno A] / [Nome do Aluno B], ferramenta de comunicação combinada, e qualquer número (uptime, tempo de carregamento etc.) que vocês queiram calibrar com base na realidade do cliente fictício.*
