@@ -1,10 +1,5 @@
 # PetAgenda — Semana 4 (Consolidação e Reflexão)
 
-**Dupla:** [Nome do Aluno A] e [Nome do Aluno B]
-**Cliente fictício:** Renata Souza — rede "Tosa Boa" (banho e tosa, 3 unidades)
-
----
-
 ## 1. Documento de Requisitos (versão final 2.0)
 
 A versão 2.0 mantém os requisitos definidos na Semana 1/2 (ver `documento-requisitos-v1.0.md`) e adiciona a coluna de rastreabilidade, ligando cada requisito ao caso de uso e à(s) classe(s) que o implementam.
@@ -97,17 +92,6 @@ Entre as decisões técnicas mais relevantes:
 **Aprendizado sobre trabalho em equipe:** a divisão de responsabilidades combinada no Contrato de Colaboração (modelagem estática vs. dinâmica) funcionou bem para produzir os artefatos, mas exigiu revisão cruzada constante para manter os dois lados do modelo consistentes entre si (por exemplo, garantir que toda classe usada no diagrama de sequência já existisse no diagrama de classes) — reforçando que comunicação frequente é tão importante quanto a divisão de tarefas.
 
 ---
-
-## 5. Repositório Git Atualizado
-
-**Commits da Semana 3 e 4 (mensagens descritivas, padrão `[Semana X] ...`):**
-- `[Semana 3] Adiciona diagrama de classes refinado`
-- `[Semana 3] Detalha caso de uso de maior risco (Agendar Horário)`
-- `[Semana 3] Adiciona diagrama de sequência do agendamento`
-- `[Semana 3] Adiciona backlog do produto priorizado`
-- `[Semana 4] Atualiza documento de requisitos para v2.0 com rastreabilidade`
-- `[Semana 4] Adiciona matriz de rastreabilidade`
-- `[Semana 4] Adiciona relatório final e finaliza README`
 
 **README final (status do projeto):**
 - Status: projeto de modelagem concluído (requisitos, casos de uso, modelo conceitual, classes refinadas, sequência do caso de uso crítico e backlog)

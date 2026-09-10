@@ -1,10 +1,5 @@
 # PetAgenda — Semana 3 (Design Técnico e Detalhamento)
 
-**Dupla:** [Nome do Aluno A] e [Nome do Aluno B]
-**Cliente fictício:** Renata Souza — rede "Tosa Boa" (banho e tosa, 3 unidades)
-
----
-
 ## 1. Diagrama de Classes Refinado
 
 Arquivo: `PetAgenda-DiagramaClasses-Refinado.svg` (versão detalhada, com atributos, métodos, visibilidade e multiplicidade — evolução do Modelo Conceitual da Semana 2)
@@ -200,25 +195,6 @@ Backlog priorizado combinando as Histórias de Usuário (Semana 2) com itens adi
 
 ---
 
-## 5. Repositório GitLab
-
-**Estrutura de pastas criada:**
-
-```
-petagenda/
-├── README.md
-├── docs/
-│   ├── requisitos/
-│   │   └── documento-requisitos-v1.0.md
-│   ├── modelos/
-│   │   ├── PetAgenda-DiagramaCasosDeUso.svg
-│   │   ├── PetAgenda-ModeloConceitual.mermaid
-│   │   ├── PetAgenda-DiagramaClasses-Refinado.svg
-│   │   └── PetAgenda-DiagramaSequencia-AgendarHorario.svg
-│   └── historias/
-│       └── historias-usuario-e-criterios-aceitacao.md
-```
-
 **Conteúdo do README.md:**
 - Descrição do projeto: sistema de agendamento "PetAgenda" para a rede fictícia "Tosa Boa" (3 unidades de banho e tosa)
 - Escopo: atividade de engenharia de software (requisitos, modelagem UML e documentação) — sem implementação de código
@@ -226,7 +202,3 @@ petagenda/
 - Autoria: [Nome do Aluno A] e [Nome do Aluno B]
 
 **Convenção de commits adotada pela dupla:** mensagens descritivas no padrão `[Semana X] descrição da alteração` (ex.: `[Semana 3] Adiciona diagrama de classes refinado`), com autoria identificável de cada integrante.
-
----
-
-*Pontos para ajustar depois: nomes da dupla em [Nome do Aluno A] / [Nome do Aluno B], geração efetiva dos arquivos `.svg`/`.mermaid` no draw.io a partir das especificações textuais acima, e criação do repositório real no GitLab com a estrutura descrita.*
