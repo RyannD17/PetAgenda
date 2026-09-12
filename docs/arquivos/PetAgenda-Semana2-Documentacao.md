@@ -32,13 +32,9 @@
 
 ## 2. Diagrama de Casos de Uso
 
-Arquivo: `PetAgenda-DiagramaCasosDeUso.svg`
-
 Atores: **Cliente**, **Funcionário** (generaliza **Recepcionista**, **Tosador**, **Gerente**). O diagrama cobre 12 casos de uso, incluindo os relacionamentos `«include»` (Agendar Horário → Enviar Confirmação Automática; Cancelar/Reagendar Horário → Aplicar Política de Cancelamento), `«extend»` (Entrar na Fila de Espera → Agendar Horário) e generalização (Recepcionista/Tosador/Gerente → Funcionário).
 
 ## 3. Modelo Conceitual
-
-Arquivo: `PetAgenda-ModeloConceitual.mermaid`
 
 Entidades do domínio: Cliente, Pet, Unidade, Funcionário (e subtipos), Serviço, Agendamento, Avaliação — com as relações principais entre elas (sem atributos/métodos detalhados, foco na estrutura).
 
