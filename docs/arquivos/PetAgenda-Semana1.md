@@ -130,5 +130,4 @@ Dois sistemas brasileiros de agendamento para pet shops foram usados como refer�
 
 **Resolução de conflitos**
 - Divergências técnicas são discutidas e decididas juntos nas reuniões síncronas
-- Sem consenso após uma reunião, a decisão é registrada com a justificativa de ambos e levada ao professor no encontro semanal
 - Atrasos ou dificuldades são avisados com antecedência ao outro integrante
