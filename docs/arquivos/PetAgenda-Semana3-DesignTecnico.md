@@ -2,8 +2,6 @@
 
 ## 1. Diagrama de Classes Refinado
 
-Arquivo: `PetAgenda-DiagramaClasses-Refinado.svg` (versão detalhada, com atributos, métodos, visibilidade e multiplicidade — evolução do Modelo Conceitual da Semana 2)
-
 **Pesquisa aplicada:** antes de refinar o diagrama, pesquisamos boas práticas de modelagem de classes UML (convenção de visibilidade `+` público / `-` privado / `#` protegido, como representar herança e associações com multiplicidade). Aplicamos essas convenções abaixo.
 
 ### Especificação das classes
@@ -149,8 +147,6 @@ Arquivo: `PetAgenda-DiagramaClasses-Refinado.svg` (versão detalhada, com atribu
 
 ## 3. Diagrama de Sequência — "Agendar Horário"
 
-Arquivo: `PetAgenda-DiagramaSequencia-AgendarHorario.svg`
-
 **Participantes:** `Cliente`, `App/Site (Interface)`, `ControladorAgendamento`, `Unidade`, `Tosador`, `Agendamento`, `ServicoNotificacao`
 
 **Resumo da interação (fluxo principal):**
@@ -192,13 +188,3 @@ Backlog priorizado combinando as Histórias de Usuário (Semana 2) com itens adi
 | 12 | Programa de fidelidade (pontos/cashback) | G | Brainstorming (item 17) — backlog futuro, fora do escopo do MVP |
 
 **Critério de priorização:** itens que atacam diretamente o problema relatado na entrevista (faltas e falta de visão consolidada da agenda) vieram primeiro; itens de valor agregado (fidelidade, avaliações) ficaram no final do backlog.
-
----
-
-**Conteúdo do README.md:**
-- Descrição do projeto: sistema de agendamento "PetAgenda" para a rede fictícia "Tosa Boa" (3 unidades de banho e tosa)
-- Escopo: atividade de engenharia de software (requisitos, modelagem UML e documentação) — sem implementação de código
-- Instruções de navegação: os artefatos de cada sprint estão organizados nas pastas `docs/requisitos`, `docs/modelos` e `docs/historias`, com um arquivo Markdown por sprint na raiz do projeto (`PetAgenda-SemanaN-*.md`)
-- Autoria: [Nome do Aluno A] e [Nome do Aluno B]
-
-**Convenção de commits adotada pela dupla:** mensagens descritivas no padrão `[Semana X] descrição da alteração` (ex.: `[Semana 3] Adiciona diagrama de classes refinado`), com autoria identificável de cada integrante.
